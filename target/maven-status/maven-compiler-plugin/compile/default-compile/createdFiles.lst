@@ -1,0 +1,7 @@
+com\university\auth\controller\AuthController.class
+com\university\auth\repository\UserRepository.class
+com\university\auth\AuthServiceApplication.class
+com\university\auth\service\AuthService.class
+com\university\auth\model\User.class
+com\university\auth\config\SecurityConfig.class
+com\university\auth\security\JwtUtil.class
