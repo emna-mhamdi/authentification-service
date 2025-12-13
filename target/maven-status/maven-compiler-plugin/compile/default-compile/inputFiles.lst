@@ -1,7 +1,7 @@
-C:\Users\emham\Desktop\auth-service\src\main\java\com\university\auth\security\JwtUtil.java
-C:\Users\emham\Desktop\auth-service\src\main\java\com\university\auth\repository\UserRepository.java
-C:\Users\emham\Desktop\auth-service\src\main\java\com\university\auth\AuthServiceApplication.java
-C:\Users\emham\Desktop\auth-service\src\main\java\com\university\auth\service\AuthService.java
-C:\Users\emham\Desktop\auth-service\src\main\java\com\university\auth\model\User.java
-C:\Users\emham\Desktop\auth-service\src\main\java\com\university\auth\controller\AuthController.java
-C:\Users\emham\Desktop\auth-service\src\main\java\com\university\auth\config\SecurityConfig.java
+C:\Users\emham\Desktop\soa\auth-service\src\main\java\com\university\auth\config\SecurityConfig.java
+C:\Users\emham\Desktop\soa\auth-service\src\main\java\com\university\auth\AuthServiceApplication.java
+C:\Users\emham\Desktop\soa\auth-service\src\main\java\com\university\auth\model\User.java
+C:\Users\emham\Desktop\soa\auth-service\src\main\java\com\university\auth\security\JwtUtil.java
+C:\Users\emham\Desktop\soa\auth-service\src\main\java\com\university\auth\repository\UserRepository.java
+C:\Users\emham\Desktop\soa\auth-service\src\main\java\com\university\auth\service\AuthService.java
+C:\Users\emham\Desktop\soa\auth-service\src\main\java\com\university\auth\controller\AuthController.java
